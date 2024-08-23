@@ -1,4 +1,4 @@
-# AUTACT: AUTism Anti-Ableist Classification in Text
+# AUTACT: Anti-AUTistic Ableist Classification in Text
 ## Encrypted Dataset
 
 The dataset in this repository is encrypted for security reasons. 
