@@ -9,7 +9,7 @@ The unzipped folder contains a csv file with 2400 sentences, each labeled by thr
 
 Label meanings:
 
--1 = unrelated to autism or needs more context
-0 = not ableist towards autistic people
+-1 = unrelated to autism or needs more context  
+0 = not ableist towards autistic people  
 1 = ableist towards autistic people
 
