@@ -3,7 +3,7 @@
 
 The dataset in this repository is encrypted for security reasons. 
 
-After downloading the AUTALIC.zip file, enter the password: debiasai2024
+After downloading the AUTALIC.zip file, enter the password found on Naba's personal website.
 
 The unzipped folder contains a csv file with 2400 sentences, each labeled by three different annotators.
 
